@@ -8,7 +8,7 @@
 <body>
     <h1>
         <?php 
-            echo "Hola Mundo<br/>";
+            echo "Hola Mundo He modificado el archivo<br/>";
             //Comentario de una línea
             #Comentario de una línea
             /*
