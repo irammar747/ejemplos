@@ -10,6 +10,7 @@
     /*Define una constante con el valor de la gravedad terrestre (9.8). Luego, crea una
     variable que almacene la masa de un objeto y calcula su peso multiplicando la masa por la
     constante de gravedad. Muestra el resultado.*/
+hola
 
     define ('GRAVEDAD', 9.8);
     $masa = 8;
